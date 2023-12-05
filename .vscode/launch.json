@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Calculator.BasicCalculatorIntAndArrays.Main",
+      "projectName": "mini-projects_86ea18ad"
+    },
+    {
+      "type": "java",
       "name": "Calculadora",
       "request": "launch",
       "mainClass": "Calculator.CientificCalculator.Calculadora",
